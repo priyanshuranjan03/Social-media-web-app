@@ -108,13 +108,4 @@ Database: `Sqlite3`
 
 ![Login page](https://user-images.githubusercontent.com/84091455/208101465-29c16377-81a7-47c5-a051-c5ca103994a2.png)
 
-**3. Home/Feed Page**
 
-![Home Page](https://user-images.githubusercontent.com/84091455/208101566-beb72751-bfe6-4d4e-939a-09352b517206.png)
-
-
-![Search Result](https://user-images.githubusercontent.com/84091455/208101657-497a2549-c882-4a50-93eb-fcd261201a13.png)
-
-**7. Create a user profile page**
-
-![Create user profile](https://user-images.githubusercontent.com/84091455/208101772-e022f7ee-5c8f-4799-b0be-b5d43effd1d9.png)
